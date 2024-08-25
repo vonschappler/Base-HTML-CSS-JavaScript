@@ -33,6 +33,7 @@ main {
   display: grid;
   flex-grow: 1;
   width: 90%;
+  background-color: azure;
   margin: 10px auto;
   padding: 1rem;
   justify-content: baseline;
